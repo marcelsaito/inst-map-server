@@ -5,20 +5,3 @@ Server side implementation for inst-map.
 Do whatever you want with this code.
 
 ![Random image for your joy!](https://picsum.photos/536/354 "Random image for your joy!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Still here?
